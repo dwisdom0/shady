@@ -26,6 +26,5 @@ Shady will replace `<FILE>` in your command with each specific file and print an
 It's like 10 lines of Python so if you want to make it do something else it shouldn't be too hard.
 
 ### Tips
-* `sudo` just works and doesn't prompt you for a password or anything
-    * Hence "sketchy"
+* `sudo` works but it prompts you for a password
 
